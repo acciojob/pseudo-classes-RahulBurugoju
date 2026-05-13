@@ -1,8 +1,11 @@
 /*  your css code here. If applicable */
+:root {
+    background-color: rgb(135, 206, 235);
+}
 body{
 	margin:0px;
 	padding:0px;
-	background-color: rgb(135, 206, 235);
+	/* background-color: rgb(135, 206, 235); */
 }
 /* p{
 	background-color:black;
